@@ -6,6 +6,8 @@ FOCUS TIMER (POMODORO)
 
 ### Sobre
 
+<p>Clique aqui para vizualizar o projeto <a href="https://franciellirodrigues.github.io/FOCUSTIMER-POMODORO/">link</a><p>
+
 <p>Este é o FocusTimer-DarkMode!! O projeto foi feito com o intuito de estudar mais conceitos sobre a DOM no javascript, com muitas funcionalidades para poder aproveitar!</p>
 
 <img alt="" src="https://ik.imagekit.io/atnyozbx9v/DARKMODE_usymU2IP4.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1657052561831">
@@ -20,5 +22,5 @@ FOCUS TIMER (POMODORO)
 ## Aplicação
 
 
-<p>O projeto está disponível no <a href="https://franciellirodrigues.github.io/FOCUSTIMER-POMODORO/">link</a> junto com projeto no <a href="https://www.figma.com/file/TFjObCUIrGoIKVUQ0Fny2j/Stage-05---Dark-Mode-FocusTimer-(Copy)?node-id=0%3A1">figma</a></p>
+<p>O projeto está disponível no <a href="https://www.figma.com/file/TFjObCUIrGoIKVUQ0Fny2j/Stage-05---Dark-Mode-FocusTimer-(Copy)?node-id=0%3A1">figma</a></p>
   
